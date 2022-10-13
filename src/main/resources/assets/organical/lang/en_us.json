@@ -1,0 +1,21 @@
+{
+  "itemGroup.organical.empty" : "",
+
+  "itemGroup.organical.gray" : "Gray Gradient",
+  "itemGroup.organical.brown" : "Brown Gradient",
+  "itemGroup.organical.red" : "Red Gradient",
+  "itemGroup.organical.orange" : "Orange Gradient",
+  "itemGroup.organical.yellow" : "Yellow Gradient",
+  "itemGroup.organical.green" : "Green Gradient",
+  "itemGroup.organical.blue" : "Blue Gradient",
+  "itemGroup.organical.purple" : "Purple Gradient",
+  "itemGroup.organical.pink" : "Pink Gradient",
+
+  "itemGroup.organical.stairs_gray" : "Gray Stairs Gradient",
+  "itemGroup.organical.stairs_brown" : "Brown Stairs Gradient",
+  "itemGroup.organical.stairs_rainbow" : "Rainbow Stairs Gradient",
+
+  "itemGroup.organical.slab_gray" : "Gray Slab Gradient",
+  "itemGroup.organical.slab_brown" : "Brown Slab Gradient",
+  "itemGroup.organical.slab_rainbow" : "Rainbow Slab Gradient"
+}
